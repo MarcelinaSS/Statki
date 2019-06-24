@@ -1,7 +1,7 @@
 package statki;
 
 public class Board{
-	
+//draw board
 	public static final int BOARD_SIZE = 10;
 	
 	private char[][] board;
